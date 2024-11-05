@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+    char a;
+    printf("Hello World\n");
+    scanf("%c",&a);
+    printf("%c",a);
+    return 0;
+}
